@@ -8,7 +8,7 @@ Creation of summary dataFrame of the ride sharing data by city type using Python
 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. 
 
-![Ride_Sharing](Resources/Ride_Sharing.png) 
+![Ride_Sharing](Resources/Ride_Sharing.PNG) 
 
 There is lot of rides activity(Rides and drivers) in urban areas. Average fares are higher as the number of rides are lot less in suburban areas and the least in rural areas.
   
