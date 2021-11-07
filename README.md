@@ -12,7 +12,9 @@ There is a description of the differences in ride-sharing data among the differe
 
 There is lot of rides activity(Rides and drivers) in urban areas. Average fares are higher as the number of rides are lot less in suburban areas and the least in rural areas.
   
-![Line_Chart](Resources/Line_Chart.PNG) 
+
+![Line_Chart](Resources/Line_Chart.PNG)
+
 
   Fares are highest for urban areas, followed by  suburban and then rural areas. General trend is that there is a hike in fares during later part of Febrauary. There are fewer fluctuations for suburban areas as compared to urban and rural areas.
 
